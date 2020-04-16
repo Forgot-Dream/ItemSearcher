@@ -38,7 +38,7 @@ ONLY FOR [MCDReforged](https://github.com/Fallen-Breath/MCDReforged/tree)
 
 `!!IS override nick [<add/remove>] [<Item_name/hand>] [<Nick>]`
  
-添加/移除`<Item_name/hand>`的`<Nick>(常用名)
+添加/移除`<Item_name/hand>`的`<Nick>(常用名)`
 
 
 
