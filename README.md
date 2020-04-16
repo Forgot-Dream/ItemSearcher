@@ -4,7 +4,7 @@ Great thanks to [ten-miles-away](https://github.com/ten-miles-away) and his [ite
 
 and also thanks his help in this plugin
 
-ONLY FOR [MCDReforged]()https://github.com/Fallen-Breath/MCDReforged/tree
+ONLY FOR [MCDReforged](https://github.com/Fallen-Breath/MCDReforged/tree)
 
 ## Usage / 使用方法
 
