@@ -6,6 +6,8 @@ and also thanks his help in this plugin
 
 ONLY FOR [MCDReforged](https://github.com/Fallen-Breath/MCDReforged/tree)
 
+'IT WILL NOT UPDATE AGAIN!'
+
 ## Usage / 使用方法
 
 1. 需要[MinecraftItemAPI](https://github.com/Forgot-Dream/MinecraftItemAPI)和[PlayerInfoAPI](https://github.com/TISUnion/PlayerInfoAPI)作为前置 / Need [MinecraftItemAPI](https://github.com/Forgot-Dream/MinecraftItemAPI) and [PlayerInfoAPI](https://github.com/TISUnion/PlayerInfoAPI) 
